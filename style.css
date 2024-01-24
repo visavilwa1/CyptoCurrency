@@ -70,7 +70,7 @@ nav{
     border-radius: 30px;
 
  }
- .coin-lis{
+ .coin-list{
     position: absolute;
     right: 10%;
     bottom: 50px;
@@ -92,4 +92,8 @@ nav{
     width: 40px;
     margin-right: 10px;
 
+ }
+ .coin h3{
+    color: #fff;
+    max-width: 5px;
  }
